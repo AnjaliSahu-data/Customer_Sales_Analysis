@@ -1,7 +1,7 @@
 # 📊 Customer Sales Analysis – Excel Assignment
 
 ## 🔍 Project Description
-This project is a hands-on Excel assignment where I analyzed a customer sales dataset using built-in Excel **statistical functions** and **pivot tables**.
+This project is a hands-on Excel assignment where I analyzed a customer sales dataset using built-in Excel **statistical functions**.
 
 ## ✅ Excel Functions Used:
 - **SUMIF**, **SUMIFS**
